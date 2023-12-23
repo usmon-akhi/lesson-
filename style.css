@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black
+}
+.title{
+    font-size: 80px;
+    color: brown;
+}
